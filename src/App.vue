@@ -35,3 +35,30 @@ onMounted(() => {
     <ButtonBackTop />
   </div>
 </template>
+
+<!-- <script>
+export default {
+  name: "App",
+  $metaInfo: {
+    title: "BaikMu - Self Care",
+    meta: [
+      {
+        property: "og:title",
+        content: "BaikMu - Self Care",
+      },
+      {
+        property: "og:description",
+        content: "Sebuah aplikasi yang dapat membantu mengetahui tentang kesehatan mental seseorang, khususnya untuk kalangan generasi Z.",
+      },
+      {
+        property: "og:image",
+        content: "https://baikmu-web.vercel.app/icon-baikmu.svg",
+      },
+      {
+        property: "og:url",
+        content: "https://baikmu-web.vercel.app",
+      },
+    ],
+  },
+};
+</script> -->
