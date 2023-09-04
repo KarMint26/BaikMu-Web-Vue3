@@ -63,7 +63,7 @@
         ]"
         class="absolute inset-x-0 z-20 w-full px-6 py-4 transition-all duration-300 ease-in-out bg-white lg:mt-0 lg:p-0 lg:top-0 lg:relative lg:bg-transparent lg:w-auto lg:opacity-100 lg:translate-x-0 lg:flex lg:items-center"
       >
-        <div class="flex flex-col lg:flex-row lg:mx-6">
+        <div class="flex flex-col items-center lg:flex-row lg:mx-6">
           <a
             @click="isOpen = !isOpen"
             class="nav-link my-2 text-center text-gray-700 transition duration-300 transform hover:text-primary lg:mx-4 lg:my-0"
@@ -93,6 +93,12 @@
             class="nav-link my-2 text-center text-gray-700 transition duration-300 transform hover:text-primary lg:mx-4 lg:my-0"
             href="#contact"
             >Kontak</a
+          >
+          <a
+            @click="isOpen = !isOpen"
+            class="my-2 text-center text-white transition duration-300 transform bg-primary py-2 px-4 lg:mx-4 lg:my-0 rounded-lg shadow hover:bg-cyan-500"
+            href="{{ url_for('login') }}"
+            >Sign In</a
           >
         </div>
       </div>
