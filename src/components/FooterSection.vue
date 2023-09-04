@@ -73,7 +73,7 @@
             <div>
               <h3 class="text-gray-700 uppercase font-semibold text-2xl">Hubungi Kami</h3>
               <a
-                href="https://wa.me/082324282477"
+                href="https://wa.me/6282324282477"
                 target="_blank"
                 class="flex items-center gap-3 mt-2 hover:text-sky-600 text-sm text-gray-600"
                 ><v-icon name="hi-phone" class="text-cyan-700" scale="1.5" /> +62 823-2428-2477</a
