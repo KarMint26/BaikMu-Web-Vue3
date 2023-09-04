@@ -18,7 +18,7 @@ import Bubbles from './Bubbles.vue';
         <p
           class="font-primary font-semibold text-slate-700 lg:text-xl sm:text-base text-[0.7rem]"
         >
-          Teknologi yang digunakan
+          Teknologi yang digunakan aplikasi dan website
         </p>
       </div>
       <div class="tech-list grid grid-cols-3 sm:grid-cols-4 lg:grid-cols-6 gap-8 sm:gap-12 lg:gap-14 justify-items-center place-items-center">
