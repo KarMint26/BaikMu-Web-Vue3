@@ -24,7 +24,7 @@
       >
         <img
           class="w-full h-full lg:max-w-3xl"
-          src="/images/Hero-Image.svg"
+          src="/images/Hero-Image-min.svg"
           alt="Application"
         />
       </div>
