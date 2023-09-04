@@ -4,7 +4,7 @@
       <div class="lg:-mx-6 lg:flex lg:items-center">
         <img
           class="lg:w-[500px] sm:w-[500px] sm:mx-auto lg:mx-6 w-full rounded-lg"
-          src="/images/baikmu.png"
+          src="/images/baikmu.svg"
           alt="application-image"
         />
 

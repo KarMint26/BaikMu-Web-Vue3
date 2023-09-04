@@ -26,12 +26,12 @@ body {
 }
 *::-webkit-scrollbar-track {
   border-radius: 20px;
-  background-color: #00ea9c;
+  background-color: transparent;
 }
 
 *::-webkit-scrollbar-thumb {
   border-radius: 10px;
-  @apply bg-gradient-to-b from-[#0a84ff] to-indigo-500;
+  @apply bg-gradient-to-b from-sky-500 to-purple-600;
 }
 
 /* Text-area */

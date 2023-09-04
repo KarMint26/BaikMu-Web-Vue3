@@ -1,7 +1,7 @@
 <template>
   <a
     href="#"
-    class="button-back-top shadow fixed right-3 bottom-3 flex justify-center items-center bg-cyan-600 rounded-full p-[0.35rem] sm:p-2 text-white"
+    class="button-back-top shadow fixed right-3 bottom-3 flex justify-center items-center bg-gradient-to-tr from-teal-500 to-purple-600 rounded-full p-[0.35rem] sm:p-2 text-white"
     v-if="isScroll"
   >
     <v-icon name="ai-acclaim" scale="1.8" />
