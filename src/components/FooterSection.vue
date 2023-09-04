@@ -76,13 +76,13 @@
                 href="https://wa.me/087791921967"
                 target="_blank"
                 class="flex items-center gap-3 mt-2 hover:text-sky-600 text-sm text-gray-600"
-                ><v-icon name="hi-phone" class="text-cyan-700" scale="1.5" /> +62 877 9192 1967</a
+                ><v-icon name="hi-phone" class="text-cyan-700" scale="1.5" /> +62 823-2428-2477</a
               >
               <a
                 href="mailto:baikmu@gmail.com"
                 target="_blank"
                 class="flex items-center gap-3 mt-2 hover:text-sky-600 text-sm text-gray-600"
-                ><v-icon name="hi-mail" class="text-cyan-700" scale="1.5" /> baikmu@email.com</a
+                ><v-icon name="hi-mail" class="text-cyan-700" scale="1.5" /> appkesehatanmental@email.com</a
               >
               <a
                 href="https://goo.gl/maps/uex2bEBQnxSmTZtc6"

@@ -57,7 +57,7 @@
 
               <span
                 class="sm:text-base text-sm mx-2 text-gray-700 truncate w-72 dark:text-gray-400"
-                >+62 877 9192 1978</span
+                >+62 823-2428-2477</span
               >
             </p>
 
@@ -79,7 +79,7 @@
 
               <span
                 class="sm:text-base text-sm mx-2 text-gray-700 truncate w-72 dark:text-gray-400"
-                >baikmu@gmail.com</span
+                >appkesehatanmental@gmail.com</span
               >
             </p>
           </div>
