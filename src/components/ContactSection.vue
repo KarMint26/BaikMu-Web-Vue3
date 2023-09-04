@@ -32,7 +32,9 @@
                 />
               </svg>
 
-              <span class="sm:text-base text-sm mx-2 text-gray-700 truncate w-72 dark:text-gray-400">
+              <span
+                class="sm:text-base text-sm mx-2 text-gray-700 truncate w-72 dark:text-gray-400"
+              >
                 Tegal, Jawa tengah, Indonesia
               </span>
             </p>
@@ -53,7 +55,8 @@
                 />
               </svg>
 
-              <span class="sm:text-base text-sm mx-2 text-gray-700 truncate w-72 dark:text-gray-400"
+              <span
+                class="sm:text-base text-sm mx-2 text-gray-700 truncate w-72 dark:text-gray-400"
                 >+62 877 9192 1978</span
               >
             </p>
@@ -74,7 +77,8 @@
                 />
               </svg>
 
-              <span class="sm:text-base text-sm mx-2 text-gray-700 truncate w-72 dark:text-gray-400"
+              <span
+                class="sm:text-base text-sm mx-2 text-gray-700 truncate w-72 dark:text-gray-400"
                 >baikmu@gmail.com</span
               >
             </p>
@@ -92,7 +96,11 @@
               /></a>
               <a
                 class="cursor-pointer mr-3 flex justify-start items-center gap-3 mt-2 text-sm text-gray-600"
-                ><v-icon name="bi-facebook" scale="1.5" class="text-slate-500" />
+                ><v-icon
+                  name="bi-facebook"
+                  scale="1.5"
+                  class="text-slate-500"
+                />
               </a>
               <a
                 class="cursor-pointer mr-3 flex justify-start items-center gap-3 mt-2 text-sm text-gray-600"
@@ -146,11 +154,13 @@
                 ></textarea>
               </div>
 
-              <button
+              <a
+                href="mailto:baikmu@gmail.com"
+                target="_blank"
                 class="w-full px-6 py-3 mt-6 text-sm font-medium tracking-wide text-white capitalize transition-colors duration-300 transform bg-blue-500 rounded-md hover:bg-blue-400 focus:outline-none focus:ring focus:ring-blue-300 focus:ring-opacity-50"
               >
                 Kirim Pesan
-              </button>
+              </a>
             </form>
           </div>
         </div>
